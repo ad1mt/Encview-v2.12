@@ -11,4 +11,4 @@ The only thing that is guaranteed is that there are no backdoors that will allow
 It works like a very basic text editor, except that all files are encrypted using a proprietary encryption algorithm.
 Yes, I know you are not supposed to design your own encryption algorithm, but I did it anyway.
 
-Written using the Free Pascal compiler. Source code available on request.
+Written using the Free Pascal compiler. Source code and/or explanation of the encryption algorithm available on request.
